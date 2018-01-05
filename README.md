@@ -1,10 +1,9 @@
 #Welcome!
 
-This is my online portfolio! Made Specifically for you boys at Blizzard!
+This is my online portfolio!
 
 ##About Me:
-My name is Wyatt Drummond. I am currently a student at Dixie State University, studying software development.
-I am have been studying software developent for about 2 years now and I think it would be cool if I could work with you guys!
+My name is Wyatt Drummond. I have just graduated from Dixie State University with a degree in Softwate Development.
 
 
 
